@@ -45,3 +45,12 @@ Halaman keranjang belanja dan proses checkout, memberikan pengalaman pembelian y
 
 Website JIC dirancang untuk memberikan kemudahan, kecepatan, dan kenyamanan bagi pengguna dalam berbelanja online.
 
+---
+
+## Kontribusi Proyek
+
+- **Arman - 2331089**: Role - Backend
+- **Erica Lutvianingrum - 2331167**: Role - Frontend
+- **Kianata Putra - 2331097**: Role - UI/UX
+- **Regita Sayidina Maharani - 2331037**: Role - Flow Chart & UI/UX
+
