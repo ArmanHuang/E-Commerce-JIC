@@ -1,5 +1,7 @@
 # Website JIC (Just In Case)
 
+<img src="public/assets/images/jic01.png" alt="Logo" width="200">
+
 **JIC** adalah sebuah platform **e-commerce** yang dibangun menggunakan **Laravel framework**. Website ini dirancang untuk mendukung fitur **RESTful API**, sehingga memudahkan integrasi dengan aplikasi pihak ketiga dan mendukung pengalaman pengguna yang lebih baik.
 
 ---
